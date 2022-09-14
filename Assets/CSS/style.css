@@ -1,0 +1,60 @@
+
+.navbar-nav {
+    margin-left: auto;
+}
+.navbar-brand{
+    background-color: #17a2b8;
+}
+.bg-light {
+    background-color: #17a2b8;
+}
+.row1  {
+    padding: 25px 10px 75px 100px;
+    background-color:lightgray;
+    display: flex;
+}
+.Vis  {
+    padding: 25px 10px 75px 10px;
+    background-color:lightgray;
+    display: flex;
+}
+.Comp {
+    background-color:white;
+    padding: 25px 10px 75px 100px;
+}
+.Comp1.container {
+    padding: 25px 10px 75px 100px;
+}
+.container {
+    background-color:lightgray;
+    
+}
+
+@media only screen and (min-width : 1200px) {
+
+    .Data { width: 1500px; } 
+
+}
+.col {
+    padding: 0px;
+}
+.MaxTemp.row  {
+    padding: 25px 10px 75px 100px;
+    background-color:lightgray;
+    display: flex;
+}
+.Hum.row  {
+    padding: 25px 10px 75px 100px;
+    background-color:lightgray;
+    display: flex;
+}
+.Cloud.row  {
+    padding: 25px 10px 75px 100px;
+    background-color:lightgray;
+    display: flex;
+}
+.Wind.row  {
+    padding: 25px 10px 75px 100px;
+    background-color:lightgray;
+    display: flex;
+}
