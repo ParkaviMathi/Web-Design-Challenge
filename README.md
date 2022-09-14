@@ -9,7 +9,7 @@ The Aim of this Assignment is to create a dashboard featuring the Analysis that 
 
 The website consists of seven pages in total, including:
 
-
+#### Landing Page
 A landing page containing the following elements:
 
 
@@ -20,7 +20,7 @@ Links to each visualisation page. A a sidebar containing preview images of each 
 
 
 
-
+#### Visualisation Pages
 Four visualisation pages, stored in the visualisations folder, each with the following elements:
 
 
@@ -34,7 +34,7 @@ A paragraph describing the plot and its significance.
 
 
 
-
+#### Comparison Page
 A "Comparisons" page that does the following:
 
 
@@ -48,7 +48,7 @@ The grid is two visualisations across medium and large screens, and is one visua
 
 
 
-
+#### Data Page
 A "Data" page that displays a responsive table containing the data used in the visualisations.
 
 
